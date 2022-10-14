@@ -1,6 +1,19 @@
 # serverless-test
 
+## contents
+
+- [serverless-test](#serverless-test)
+  - [contents](#contents)
+  - [overview](#overview)
+  - [live demo](#live-demo)
+  - [acknowledgements](#acknowledgements)
+
+
+## overview
+
 This site was built from scratch and it shows how to build and deploy an api as a serverless function hosted on Netlify
+
+## live demo
 
 running site is at 
 
@@ -22,3 +35,8 @@ if you care to use [`postman`](https://web.postman.co/workspace/My-Workspace~ef7
     "hello": "hit the POST!"
 }
 ```
+
+## acknowledgements
+
+Thanks to Paul Reaney for his simple [article](https://paulreaney.medium.com/deploy-express-js-on-netlify-91cfaea39591) on how to get this working - thanks Paul!
+
